@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @machoman29
+- 👋 Hi, I’m machoman29
 - 👀 I’m interested in learning more about coding, online collaboration, and tech.
-- 🌱 I’m currently learning C++, Python, C#, and interfacing with github
+- 🌱 I’m currently learning C++, Python, C, and interfacing with github
 - 💞️ I’m looking to collaborate on school projects, passion projects, non-profit organization projects
 - 📫 How to reach me on my discord, username: machoman29
 - 😄 Pronouns: He/Him
